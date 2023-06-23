@@ -2,14 +2,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://github.com/theus520">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Theus520&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theus520&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
